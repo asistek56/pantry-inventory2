@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.Material3.Dark">
+        <!-- Customize your app's theme here -->
+    </style>
+
+    <!-- Define the Theme.Material3.Dark style -->
+    <style name="Theme.Material3.Dark" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Add any custom attributes or overrides for your dark theme -->
+    </style>
+
+    <!-- Define the Theme.Material3.Dark.NoActionBar style -->
+    <style name="Theme.Material3.Dark.NoActionBar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Add any custom attributes or overrides for your dark theme without the action bar -->
+    </style>
+
+
+</resources>
